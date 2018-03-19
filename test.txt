@@ -1,0 +1,11 @@
+1.查看分支
+	GIT BRANCH
+2.新建分支
+	GIT CHECKOUT -B NAME
+	===
+	GIT BRANCH NAME
+	GIT CHECKOUT NAME
+3.查看分支最后提交记录
+	GIT BRANCH -V
+4.删除分支
+	GIT BRANCH -D NAME
