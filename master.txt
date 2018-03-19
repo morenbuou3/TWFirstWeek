@@ -4,3 +4,7 @@
 	GIT ADD <FILENAME>
 3.提交文件到仓库
 	GIT COMMIT -M "COMMITMENT"
+4.添加远程仓库
+	GIT REMOTE ADD <NAME> <URL>
+5.查看远程仓库
+	GIT REMOTE -V
