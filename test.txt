@@ -9,3 +9,7 @@
 	GIT BRANCH -V
 4.删除分支
 	GIT BRANCH -D NAME
+5.删除分支下文件
+	GIT RM <FILENAME>
+6.删除分支下文件追踪(保留工作区文件)
+	GIT RM --CACHED <FILENAME>
