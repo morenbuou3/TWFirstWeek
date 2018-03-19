@@ -1,0 +1,6 @@
+1.初始化仓库
+	GIT INIT
+2.添加文件到暂存区
+	GIT ADD <FILENAME>
+3.提交文件到仓库
+	GIT COMMIT -M "COMMITMENT"
